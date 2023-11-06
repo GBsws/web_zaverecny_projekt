@@ -25,5 +25,12 @@ html {
    font-size:1.5em;
    margin:10px;
 }
-
-
+footer{
+  background-color: bisque;
+  padding:30px 0;
+  max-width: 100%;
+  text-align: center;
+}
+.photo{
+  border-radius: 10px;
+}
